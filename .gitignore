@@ -1,0 +1,8 @@
+.idea/
+.pytest_cache/
+*.log
+*__pycache__
+#	name = Home
+#	name = Home
+#	name = Home
+:wq
